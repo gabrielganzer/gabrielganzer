@@ -1,16 +1,15 @@
-### Hi there 👋
+<h3 align="left">
+int main(void) {
 
-<!--
-**gabrielganzer/gabrielganzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  printf("Hello World! \n");
 
-Here are some ideas to get you started:
+}
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Gabriel Ganzer (they/them), a computer engineer born in 1995 who lives in São Paulo, Brazil.
+
+I've been working as an **embedded systems developer** for 3+ years, in particular, with System-on-Chip (SoC) architectures and energy-efficient hardware/software design. I've been developing a keen interest in **cybersecurity** that led me to pursue my current research over the IEEE 1149.8.1-2012 standard for Boundary-Scan-Based Stimulus of Interconnections to Passive and/or Active Components, and I'm looking forward to collaborating in different projects of this field.
+
+During my spare time, I like to practice Yoga, cook delicious meals, travel, and advocate for LGBTQ+ people! 🏳️‍🌈
+
+Visit my [portfolio](https://gabrielganzer.github.io/) to learn more about me and get in touch, or check out some of my projects here.
