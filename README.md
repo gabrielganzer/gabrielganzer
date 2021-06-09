@@ -6,7 +6,7 @@ int main(void) {
 }
 </h3>
 
-I'm Gabriel Ganzer (they/them), a computer engineer born in 1995 who lives in São Paulo, Brazil.
+I'm Gabriel Ganzer (he/him/his), a computer engineer born in 1995 who lives in São Paulo, Brazil.
 
 I've been working as an **embedded systems developer** for 3+ years, in particular, with System-on-Chip (SoC) architectures and energy-efficient hardware/software design. I've been developing a keen interest in **cybersecurity** that led me to pursue my current research over the IEEE 1149.8.1-2012 standard for Boundary-Scan-Based Stimulus of Interconnections to Passive and/or Active Components, and I'm looking forward to collaborating in different projects of this field.
 
