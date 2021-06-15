@@ -8,7 +8,7 @@ int main(void) {
 
 I'm Gabriel Ganzer (he/him/his), a computer engineer born in 1995 who lives in São Paulo, Brazil.
 
-I've been working as an **embedded systems developer** for 3+ years, in particular, with System-on-Chip (SoC) architectures and energy-efficient hardware/software design. I've been developing a keen interest in **cybersecurity** that led me to pursue my current research over the IEEE 1149.8.1-2012 standard for Boundary-Scan-Based Stimulus of Interconnections to Passive and/or Active Components, and I'm looking forward to collaborating in different projects of this field.
+I've been working as an **embedded system developer** for 3+ years, in particular, with System-on-Chip (SoC) architectures and energy-efficient hardware/software design. I've been developing a keen interest in **testing and fault tolerance** that led me to get involved with my current research over the IEEE 1149.8.1-2012 standard for Boundary-Scan-Based Stimulus of Interconnections to Passive and/or Active Components in a project related to **cybersecurity**.
 
 During my spare time, I like to practice Yoga, cook delicious meals, travel, and advocate for LGBTQ+ people! 🏳️‍🌈
 
