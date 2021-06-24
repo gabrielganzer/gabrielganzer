@@ -6,9 +6,7 @@ int main(void) {
 }
 </h3>
 
-I'm Gabriel Ganzer (he/him/his), a computer engineer born in 1995 who lives in São Paulo, Brazil.
-
-I've been working as an **embedded system developer** for 3+ years, particularly with System-on-Chip (SoC) architectures and energy-efficient hardware/software design. I've been developing a keen interest in **testing and fault tolerance** that led me to get involved with my current research over the IEEE 1149.8.1-2012 standard for Boundary-Scan-Based Stimulus of Interconnections to Passive and/or Active Components in a project related to **cybersecurity**.
+I'm Gabriel Ganzer (he/him/his), a computer engineer from Campinas, Brazil. Currently, I hold the position of **Embedded Software Developer** at Kryptus EED S.A. developing secure software for **integrated avionic systems**. I'm also experienced with **firmware development** for System-on-Chip (SoC) architectures and energy-efficiency **hardware design**.
 
 During my spare time, I like to practice Yoga, cook delicious meals, travel (on hold with the COVID-19 pandemic), and advocate for LGBTQ+ people! 🏳️‍🌈
 
