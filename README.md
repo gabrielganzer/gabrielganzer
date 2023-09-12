@@ -1,6 +1,5 @@
 <h3 align="left">
-def main():
-  print("Hello World!")
+print("Hello World!")
 </h3>
 
 I'm Gabriel Ganzer (he/him/his), a computer engineer from São Paulo, Brazil. Currently, I'm a **Software Developer** at Kryptus EED S.A. working with machine learning algorithms and MLOps.
